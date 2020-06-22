@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 5\labwork 5\source.cpp(67): warning C4101: k: неиспользованная локальная переменная
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 5\labwork 5\source.cpp(80): warning C4715: integer: значение возвращается не при всех путях выполнения
+  labwork 5.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 5\Debug\labwork 5.exe
+  labwork 5.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 5\Debug\labwork 5.pdb (Full PDB)

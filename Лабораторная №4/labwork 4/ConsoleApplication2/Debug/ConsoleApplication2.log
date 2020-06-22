@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\laptop-pc\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(200): warning C4715: recursion: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

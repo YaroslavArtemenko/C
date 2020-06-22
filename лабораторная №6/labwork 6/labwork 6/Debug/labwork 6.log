@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 6\labwork 6\source.cpp(49): warning C4101: k: неиспользованная локальная переменная
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 6\labwork 6\source.cpp(103): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 6\labwork 6\source.cpp(62): warning C4715: integer: значение возвращается не при всех путях выполнения
+  labwork 6.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 6\Debug\labwork 6.exe
+  labwork 6.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 6\Debug\labwork 6.pdb (Full PDB)

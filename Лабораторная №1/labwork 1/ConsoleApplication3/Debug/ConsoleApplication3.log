@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(78): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(163): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(134): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned char *"
+  c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(134): note: рекомендуется использовать "%hhd" в строке форматирования
+c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(136): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned char *"
+  c:\users\laptop-pc\documents\visual studio 2015\projects\labwork 1\consoleapplication3\source.cpp(136): note: рекомендуется использовать "%hhd" в строке форматирования
+  ConsoleApplication3.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 1\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\laptop-PC\Documents\Visual Studio 2015\Projects\labwork 1\Debug\ConsoleApplication3.pdb (Full PDB)
